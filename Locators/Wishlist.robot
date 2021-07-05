@@ -2,7 +2,7 @@
 Library           SeleniumLibrary
 
 *** Variables ***
-${addWishlistLink}    //*[@id="wishlist_button"]
+${addWishlistLink}    //*[@id="wishlist_btton"]
 ${wishlistPopupMessage}    //*[@class="fancybox-inner"]
 ${wishlistPopupClose}    //*[@class="fancybox-item fancybox-close"]
 ${wishlistPage}    //*[@class="header_user_info"]
